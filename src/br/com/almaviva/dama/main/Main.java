@@ -1,4 +1,4 @@
-package br.com.almaviva.dama.principal;
+package br.com.almaviva.dama.main;
 
 public class Main {
 	public static void main(String[] args) {
